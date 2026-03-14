@@ -25,6 +25,9 @@ const abdulahad = {
 
   funFact: "I debug with console.log and I'm proud of it 😄"
 };
+```
+
+---
 
 ## 🛠️ Tech Stack
 
