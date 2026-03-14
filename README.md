@@ -12,65 +12,19 @@
 
 ```javascript
 const abdulahad = {
-  name: "Abdulahad Warraich",
-  title: "Full Stack Web Developer",
-  education: {
-    degree: "BS Computer Science",
-    semester: "6th Semester"
-  },
+  name:       "Abdulahad Warraich",
+  role:       "Full Stack Web Developer",
+  university: "BS Computer Science — 6th Semester",
+  email:      "abdulahadwarraich.web@gmail.com",
+  location:   "Pakistan 🇵🇰",
 
-  location: "Pakistan 🇵🇰",
-  contact: {
-    email: "abdulahadwarraich.web@gmail.com"
-  },
-
-  currentWork: {
-    project: "UniCRUD — Universal Multi-Database CRUD Manager",
-    focus: "Building scalable CRUD systems supporting multiple databases"
-  },
-
-  learning: [
-    "Advanced Backend Development",
-    "System Design",
-    "API Architecture"
-  ],
-
-  techStack: {
-    frontend: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Responsive UI"
-    ],
-    backend: [
-      "Node.js",
-      "Express.js"
-    ],
-    databases: [
-      "MongoDB",
-      "MySQL",
-      "SQLite"
-    ],
-    tools: [
-      "Git",
-      "GitHub",
-      "Postman",
-      "VS Code"
-    ]
-  },
-
-  interests: [
-    "REST API Development",
-    "Database Architecture",
-    "Building Scalable Web Applications"
-  ],
-
-  goal: "Become a professional Full Stack Developer and build impactful web applications",
+  currentlyWorking:  "UniCRUD — Universal Multi-Database CRUD Manager",
+  currentlyLearning: "Advanced Backend Development & System Design",
+  exploring:         ["MongoDB", "MySQL", "SQLite", "REST APIs"],
+  goal:              "Become a Professional Full Stack Developer",
 
   funFact: "I debug with console.log and I'm proud of it 😄"
 };
-
-export default abdulahad;
 
 ## 🛠️ Tech Stack
 
