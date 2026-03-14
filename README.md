@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Abdulahad%20Warraich&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=60&descAlign=50" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=👋+Hey+there%2C+I'm+Abdulahad!;💻+Full+Stack+Web+Developer;🚀+Building+Modern+Web+Applications;⚡+Multi-Database+Systems+Explorer;🎯+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&height=50&lines=👋+Hey+there%2C+I'm+Abdulahad!;💻+Full+Stack+Web+Developer;🚀+Building+Modern+Web+Applications;⚡+Multi-Database+Systems+Explorer;🎯+Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 ---
@@ -84,15 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulahad-web-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdulahad-web-dev&theme=tokyonight&margin-w=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulahad-web-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" />
 </p>
 
 ---
