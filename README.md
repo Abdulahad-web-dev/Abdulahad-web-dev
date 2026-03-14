@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Abdulahad%20Warraich&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=60&descAlign=50" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&height=50&lines=👋+Hey+there%2C+I'm+Abdulahad!;💻+Full+Stack+Web+Developer;🚀+Building+Modern+Web+Applications;⚡+Multi-Database+Systems+Explorer;🎯+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Abdulahad!;%F0%9F%92%BB+Full+Stack+Web+Developer;%F0%9F%9A%80+Building+Modern+Web+Applications;%E2%9A%A1+Multi-Database+Systems+Explorer;%F0%9F%8E%AF+Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 ---
@@ -76,15 +76,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulahad-web-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulahad-web-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180px" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdulahad-web-dev&theme=tokyonight&hide_border=true" height="180px" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdulahad-web-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulahad-web-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulahad-web-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" height="180px" alt="Top Languages" />
 </p>
 
 ---
