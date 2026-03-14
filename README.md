@@ -1,10 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Abdulahad%20Warraich&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=60&descAlign=50" width="100%" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=👋+Hey+there%2C+I'm+Abdulahad!;💻+Full+Stack+Web+Developer;🚀+Building+Modern+Web+Applications;⚡+Multi-Database+Systems+Explorer;🎯+Turning+Ideas+Into+Reality" alt="Typing SVG" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=750&height=45&lines=👋+Hey+there%2C+I'm+Abdulahad!;💻+Full+Stack+Web+Developer;🚀+Building+Modern+Web+Applications;⚡+Multi-Database+Systems+Explorer;🎯+Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
 
 ---
 
@@ -94,7 +90,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdulahad-web-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdulahad-web-dev&theme=nord&column=7&no-frame=true&no-bg=false&margin-w=5" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -121,9 +117,7 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Abdulahad-web-dev&label=Profile%20Views&icon=5&color=7&pretty=true" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Abdulahad-web-dev&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
