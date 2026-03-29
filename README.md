@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Text -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=750&height=50&lines=👋+Hi%2C+I'm+Abdulahad+Warraich;💻+Full+Stack+Software+Engineer;🌐+React%2C+Next.js+%26+Tailwind+Expert;⚙️+Node.js%2C+Express+%26+Database+Architect;🚀+Building+Scalable+RESTful+APIs;🎯+Clean+Code+%26+System+Design+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&height=50&lines=Hi,+I'm+Abdulahad+Warraich;Full+Stack+Software+Engineer;React,+Next.js+and+Tailwind+Expert;Node.js,+Express+and+DB+Architect;Building+Scalable+RESTful+APIs;Clean+Code+and+System+Design" alt="Typing Text Animation" />
 </div>
 
 <br/>
@@ -112,7 +112,7 @@
 <div align="center">
   <br/>
   <h3>📈 Daily Contribution Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulahad-web-dev&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulahad-web-dev&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 <br/>
