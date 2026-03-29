@@ -100,10 +100,10 @@
 ## 📊 Analytics & Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulahad-web-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdulahad-web-dev&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdulahad-web-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulahad-web-dev&theme=tokyonight&hide_border=true" height="180px"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulahad-web-dev&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" height="180px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abdulahad-web-dev&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" height="180px"/>
 </div>
 
 <br/>
