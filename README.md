@@ -1,9 +1,22 @@
 <!-- Header Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Abdulahad%20Warraich&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Abdulahad%20Warraich&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=60&descAlign=50" width="100%" />
+
+<br/>
+
+<!-- GitHub Trophies Animation -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abdulahad-web-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&height=50&lines=👋+Hi%2C+I'm+Abdulahad+Warraich;💻+Full+Stack+Web+Developer;🚀+Building+Scalable+Web+Applications;⚡+Backend+%26+Database+Enthusiast;🎯+Focused+on+Clean+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=750&height=50&lines=👋+Hi%2C+I'm+Abdulahad+Warraich;💻+Full+Stack+Software+Engineer;🌐+React%2C+Next.js+%26+Tailwind+Expert;⚙️+Node.js%2C+Express+%26+Database+Architect;🚀+Building+Scalable+RESTful+APIs;🎯+Clean+Code+%26+System+Design+Enthusiast" alt="Typing SVG" />
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/Abdulahad-web-dev">
@@ -25,21 +38,21 @@
       <h3>🎓 Personal Info</h3>
       <ul>
         <li><b>Degree:</b> BS Computer Science — 6th Semester (COMSATS)</li>
-        <li><b>Focus:</b> Full Stack Developer focusing on scalable & maintainable systems</li>
-        <li><b>Current:</b> Building <b>UniCRUD</b> (Multi-Database CRUD Engine)</li>
-        <li><b>Learning:</b> Advanced Backend, System Design, APIs Architecture</li>
-        <li><b>Exploring:</b> MongoDB, MySQL, SQLite, REST APIs</li>
-        <li><b>Goal:</b> Professional Software Engineer (Full Stack)</li>
+        <li><b>Focus:</b> Full Stack Architect building scalable & maintainable distributed systems.</li>
+        <li><b>Current:</b> Engineering <b>UniCRUD</b> (Multi-Database Advanced CRUD Manager).</li>
+        <li><b>Learning:</b> Microservices, Advanced System Design, Enterprise API Architecture.</li>
+        <li><b>Exploring:</b> PostgreSql, Redis, Serverless, JWT Auth & Webhooks.</li>
+        <li><b>Goal:</b> Delivering high-impact solutions as a Professional Software Engineer.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 Core Expertise</h3>
+      <h3>🧠 Full Stack Expertise</h3>
       <ul>
-        <li>⚙️ <b>REST API</b> Design & Development</li>
-        <li>🗄️ <b>Multi-Database</b> Handling (SQL + NoSQL)</li>
-        <li>🧱 <b>MVC</b> & Scalable Architecture</li>
-        <li>🔄 <b>CRUD System</b> Optimization</li>
-        <li>🎨 <b>Responsive UI</b> Development</li>
+        <li>⚙️ <b>Backend & APIs</b> (REST APIs, Express.js, Laravel)</li>
+        <li>🗄️ <b>Advanced Databases</b> (MongoDB, MySQL, SQLite, Supabase)</li>
+        <li>🧱 <b>Architecture</b> (MVC Pattern & Clean Architecture)</li>
+        <li>🔄 <b>Optimization</b> (CRUD Operations & Load Management)</li>
+        <li>🎨 <b>Responsive Frontends</b> (Next.js, React, Tailwind CSS)</li>
       </ul>
     </td>
   </tr>
@@ -47,44 +60,44 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Workflow
 
 <div align="center">
   <p><strong>Frontend Development</strong></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" alt="Frontend Setup" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind" alt="Frontend Setup" />
   <br/><br/>
   <p><strong>Backend & Databases</strong></p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,mongodb,mysql,sqlite,supabase,firebase" alt="Backend & DB Setup" />
   <br/><br/>
-  <p><strong>Tools & Platforms</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Tools & Platforms" />
+  <p><strong>Tools & Deployment</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" alt="Tools & Platforms" />
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Featured Engineering Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🗄️ UniCRUD</h3>
+      <h3 align="center">🗄️ UniCRUD (Core Engine)</h3>
       <p align="center"><b>Universal Multi-Database CRUD Manager</b></p>
       <ul>
-        <li>Supports <b>MongoDB, MySQL, SQLite</b></li>
-        <li>Built with <b>scalable backend architecture</b></li>
-        <li>Clean UI with optimized workflows</li>
+        <li>Integrated support for <b>MongoDB, MySQL, SQLite</b>.</li>
+        <li>Engineered with a <b>scalable backend architecture</b>.</li>
+        <li>Clean, modular frontend UI with optimized API routing.</li>
       </ul>
-      <p align="center"><a href="https://github.com/Abdulahad-web-dev/FA23-BCS-046/tree/main/CRUD%20App"><b>🔗 View Project</b></a></p>
+      <p align="center"><a href="https://github.com/Abdulahad-web-dev/FA23-BCS-046/tree/main/CRUD%20App"><b>🔗 Inspect Production Architecture</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Academic & Practice</h3>
-      <p align="center"><b>Frontend & Full Stack Implementations</b></p>
+      <h3 align="center">🌐 Full Stack Marketplaces</h3>
+      <p align="center"><b>React / Node / APIs Implementations</b></p>
       <ul>
-        <li>React-based UI systems</li>
-        <li>API-integrated applications</li>
-        <li>Clean UI with optimized workflows</li>
+        <li>Dynamic dashboard ecosystems built dynamically with <b>Next.js</b>.</li>
+        <li>Seamlessly API-integrated applications via fetch/axios.</li>
+        <li>Complex layout alignments using Tailwind/CSS abstractions.</li>
       </ul>
-      <p align="center"><a href="https://github.com/Abdulahad-web-dev/FA23-BCS-046"><b>🔗 View Repository</b></a></p>
+      <p align="center"><a href="https://github.com/Abdulahad-web-dev/FA23-BCS-046"><b>🔗 View Repositories</b></a></p>
     </td>
   </tr>
 </table>
@@ -98,6 +111,19 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Abdulahad-web-dev&theme=tokyonight&hide_border=true" height="180px"/>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulahad-web-dev&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" height="180px"/>
+</div>
+
+<br/>
+
+<!-- GitHub Contribution Grid Snake -->
+<div align="center">
+  <br/>
+  <h3>🐍 GitHub Contribution Graph (Auto-Generated)</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdulahad-web-dev/Abdulahad-web-dev/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdulahad-web-dev/Abdulahad-web-dev/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Abdulahad-web-dev/Abdulahad-web-dev/output/dist/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
