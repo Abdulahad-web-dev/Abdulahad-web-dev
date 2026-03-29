@@ -1,23 +1,16 @@
-<!-- Header Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Abdulahad%20Warraich&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=60&descAlign=50" width="100%" />
+<!-- Header Section with Twinkling Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Abdulahad%20Warraich&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=60&descAlign=50" width="100%" />
 
 <br/>
 
-<!-- GitHub Trophies Animation -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abdulahad-web-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
-
+<!-- Animated Typing Text -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=750&height=50&lines=👋+Hi%2C+I'm+Abdulahad+Warraich;💻+Full+Stack+Software+Engineer;🌐+React%2C+Next.js+%26+Tailwind+Expert;⚙️+Node.js%2C+Express+%26+Database+Architect;🚀+Building+Scalable+RESTful+APIs;🎯+Clean+Code+%26+System+Design+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br/>
 
+<!-- Social Badges -->
 <div align="center">
   <a href="https://github.com/Abdulahad-web-dev">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -38,7 +31,7 @@
       <h3>🎓 Personal Info</h3>
       <ul>
         <li><b>Degree:</b> BS Computer Science — 6th Semester (COMSATS)</li>
-        <li><b>Focus:</b> Full Stack Architect building scalable & maintainable distributed systems.</li>
+        <li><b>Focus:</b> Full Stack Architect building scalable & maintainable systems.</li>
         <li><b>Current:</b> Engineering <b>UniCRUD</b> (Multi-Database Advanced CRUD Manager).</li>
         <li><b>Learning:</b> Microservices, Advanced System Design, Enterprise API Architecture.</li>
         <li><b>Exploring:</b> PostgreSql, Redis, Serverless, JWT Auth & Webhooks.</li>
@@ -60,7 +53,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack & Workflow
+## 🛠️ Tech Stack (Hover to animate!)
 
 <div align="center">
   <p><strong>Frontend Development</strong></p>
@@ -104,7 +97,7 @@
 
 <br/>
 
-## 📊 Analytics & Activity
+## 📊 Analytics & Activity Graph
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdulahad-web-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180px"/>
@@ -115,20 +108,10 @@
 
 <br/>
 
-<!-- GitHub Contribution Grid Snake -->
+<!-- Activity Graph -->
 <div align="center">
   <br/>
-  <h3>🐍 GitHub Contribution Graph (Auto-Generated)</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdulahad-web-dev/Abdulahad-web-dev/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdulahad-web-dev/Abdulahad-web-dev/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Abdulahad-web-dev/Abdulahad-web-dev/output/dist/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
+  <h3>📈 Daily Contribution Activity</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulahad-web-dev&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" width="100%" />
 </div>
 
